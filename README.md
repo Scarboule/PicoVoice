@@ -1,1 +1,3 @@
-# PicoVoice
+# PicoVoice Calculatrice par Oscar Dartigues & Rémy Khauv
+
+Un projet Calculatrice contrôlé avec la voix grâce à PicoVoice, PicoVoice est un ensemble de module pour développer des applications ou autre pour contrôler ce qu'on a configuré pour faire des alarmes, calculer et bien d'autre chose. Ici on a réalisé une calculatrice pour que Picovoice réalise des calculs à l'aide de notre voix, il faut activer Picovoice dans un premier temps comme si on disait un "ok google" avec un Google Home, ici on devrait dire "Picovoice" puis dire l'action qu'on veut comme "765 x 120"
